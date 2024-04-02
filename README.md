@@ -3,7 +3,7 @@
 # Example of API integration for webminer into custom website using miner service provider
 
 # Disclaimer:
-This repository is mainly for educational purpose only. Author doesn't affiliated with CoinIMP or any other related platforms
+This repository is mainly for educational purpose only. Author doesn't affiliated with any other related platforms
 
 ## Start
 
