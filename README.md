@@ -1,8 +1,8 @@
 # browser mining
 
-#00f7ff Example of API integration for webminer into custom website using miner service provider
+# Example of API integration for webminer into custom website using miner service provider
 
-#f03c15 Disclaimer:
+# Disclaimer:
 This repository is mainly for educational purpose only. Author doesn't affiliated with CoinIMP or any other related platforms
 
 ## Start
